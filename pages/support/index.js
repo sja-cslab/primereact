@@ -174,7 +174,7 @@ const SupportPage = () => {
                                 <img src="https://primefaces.org/cdn/primereact/images/support/KSM-Logo.svg" alt="KSM logo" width="100" />
                             </a>
                             <a
-                                href="https://ksmpartners.com/contact-us/"
+                                href="https://www.ksmpartners.com/contact/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-block bg-primary rounded-border py-2 px-3 border-round transition-all duration-300 text-primary-contrast font-semibold text-lg leading-none"
